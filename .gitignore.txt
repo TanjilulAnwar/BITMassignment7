@@ -1,0 +1,2 @@
+MyWindowsFormsApp/bin
+MyWindowsFormsApp/obj

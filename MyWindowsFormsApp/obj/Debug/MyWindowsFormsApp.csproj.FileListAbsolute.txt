@@ -1,0 +1,30 @@
+C:\Users\Web App Develop .Net\Downloads\batch7-master\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\bin\Debug\MyWindowsFormsApp.exe.config
+C:\Users\Web App Develop .Net\Downloads\batch7-master\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\bin\Debug\MyWindowsFormsApp.exe
+C:\Users\Web App Develop .Net\Downloads\batch7-master\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\bin\Debug\MyWindowsFormsApp.pdb
+C:\Users\Web App Develop .Net\Downloads\batch7-master\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Downloads\batch7-master\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.ArrayUi.resources
+C:\Users\Web App Develop .Net\Downloads\batch7-master\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.DatatypeUi.resources
+C:\Users\Web App Develop .Net\Downloads\batch7-master\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.Home.resources
+C:\Users\Web App Develop .Net\Downloads\batch7-master\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.ItemUi.resources
+C:\Users\Web App Develop .Net\Downloads\batch7-master\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.ListUi.resources
+C:\Users\Web App Develop .Net\Downloads\batch7-master\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Downloads\batch7-master\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Downloads\batch7-master\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Downloads\batch7-master\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.exe
+C:\Users\Web App Develop .Net\Downloads\batch7-master\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.pdb
+J:\New folder (4)\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\bin\Debug\MyWindowsFormsApp.exe.config
+J:\New folder (4)\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\bin\Debug\MyWindowsFormsApp.exe
+J:\New folder (4)\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\bin\Debug\MyWindowsFormsApp.pdb
+J:\New folder (4)\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.csprojResolveAssemblyReference.cache
+J:\New folder (4)\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.ArrayUi.resources
+J:\New folder (4)\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.DatatypeUi.resources
+J:\New folder (4)\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.Home.resources
+J:\New folder (4)\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.ItemUi.resources
+J:\New folder (4)\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.ListUi.resources
+J:\New folder (4)\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.Properties.Resources.resources
+J:\New folder (4)\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.csproj.GenerateResource.Cache
+J:\New folder (4)\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.csproj.CoreCompileInputs.cache
+J:\New folder (4)\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.exe
+J:\New folder (4)\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.pdb
+J:\New folder (4)\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.CustomerUi.resources
+J:\New folder (4)\batch7-master\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.OrderUi.resources
